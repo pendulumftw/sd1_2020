@@ -6,7 +6,9 @@ All exercises consist of simple Java programs. Some ask for prompts while others
 Exercise 8 acts as a main menu for the rest of the programs so you don't have to waste time running each exercise individually
 
 In order to access this repository, copy and paste the following link into your browser:
-gitpod.io/#/https://github.com/niall-carr/sd1_2020
+
+https://github.com/niall-carr/sd1_2020/tree/master/sd1_2020
+
 (You may need to log in if you haven't already)
 
 At the bottom of the page you will find the workspace. Type in the following (hitting the enter/return key after each step).
