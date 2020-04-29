@@ -19,7 +19,7 @@ Step 2: javac Exercise8.java (make sure to include the capital letter. It's case
 
 Step 3: java Exercise8
 
-Step 4: Selection whichever program you like
+Step 4: Select whichever program you like
 
 ------------------------
 
